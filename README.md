@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SunithNayak99
-- 👀 I’m interested in ... AI and ML with cloud Technology
+- 👀 I’m interested in ... AI and ML along with cloud Technology
 - 🌱 I’m currently learning ... ML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
