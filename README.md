@@ -89,9 +89,9 @@ Groovy       28 mins         █░░░░░░░░░░░░░░░░
 
 
 <p align="right">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=alexnaiman&theme=tokyonight&show_icons=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Sunith&theme=tokyonight&show_icons=true" />
 
-<img  float="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexnaiman&theme=tokyonight&show_icons=true" />
+<img  float="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunith&theme=tokyonight&show_icons=true" />
 
 </p>
 
