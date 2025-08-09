@@ -64,7 +64,6 @@ continuously learning, wanting to help the community
              
 </p>
 
-### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/stats.png" width="35px" /> Some stats
 
 
 
